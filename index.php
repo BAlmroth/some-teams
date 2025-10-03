@@ -34,8 +34,10 @@
                  <a href="<?php echo $details['url']; ?> "> Official Website </a>
             </p>
             <?php } ?>
-            
+
         </div>
     </main>  
-</body>
-</html>
+
+<?php 
+require 'footer.php';
+?>
