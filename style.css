@@ -1,0 +1,61 @@
+
+/* elements */
+body {
+   
+    background-color: rgb(222, 222, 249);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.navigation  {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+
+
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/*classes*/
+.logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px; 
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.logo {
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    border: 20px solid white;
+    border-radius: 45px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.logo img {
+    width: 100%;
+    height: 100%;
+}
