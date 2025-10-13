@@ -1,12 +1,12 @@
 
-<?php   require 'header.php';
-        require 'data.php';
+<?php   require __DIR__.'/header.php';
+        require __DIR__.'/data.php';
 ?>
 
     <main>
       
             <img class="title-photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/UEFA_Women%27s_Champions_League_logo.svg/1200px-UEFA_Women%27s_Champions_League_logo.svg.png" alt="UEFA champions league">
-          <h1>Your Complete Guide to (Some) UEFA Women's Football teams</h1>
+          <h1>Your Complete Guide To The Qualified UEFA Champions League Teams of 2025/2026</h1>
           <div class="logos">
         <?php foreach ($teams as $name => $details) { ?> 
             <div class="logo">
