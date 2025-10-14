@@ -15,7 +15,7 @@
                 <img
                 src="<?php echo $details['logo']; ?>" 
                 alt="team logo">
-                <h3><?php echo $name; ?></h2>
+                <h3><?php echo $name; ?></h3>
             </div>   
             </a>
         <?php } ?>

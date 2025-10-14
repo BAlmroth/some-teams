@@ -37,3 +37,7 @@
         </div>
 
     </info-main>    
+
+<?php 
+require 'footer.php';
+?>

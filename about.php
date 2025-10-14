@@ -33,10 +33,12 @@ require 'header.php';
                         </p>   
 
                 <div class="Contact">
-                    <h3>My socials</h3>
-                    <a class="social-link" href="https://www.instagram.com/beniitaalmroth/" target="instagram">Instagram</a>
-                    <a class="social-link" href="" target="facebook">LinkedIn</a>
-                   
+                    <h3>Contacts</h3>
+                    <ul>
+                    <li><a class="social-link" href="https://www.instagram.com/beniitaalmroth/" target="instagram">Instagram</a></li>
+                    <li><a class="social-link"> Phone: 0722480886 </a></li>
+                    <li><a class="social-link"> Email: Benita.almroth@hotmail.com </a></li>
+                   </ul>
 
         </div>
 
