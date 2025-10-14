@@ -12,7 +12,8 @@
 <body>  
      <header>
       <div class="navigation">
-        <img src="images/vit-transparent.png" alt="Min-logga">
+        <img class="my-logo" src="images/vit-transparent.png" alt="Min-logga">
+       
         <nav>
           <a href="/index.php">Home</a>
           <a href="/about.php">About</a>

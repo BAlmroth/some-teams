@@ -9,7 +9,10 @@ require 'header.php';
         <div class ="about-left">
             <h3>Hi, i'm Benita!</h3>
             <img src="images/Info.jpeg" alt="Me and my dog Bailey">
+        <div class="bailey">
+        <p> The viscious landshark you can see me holding above is my beloved dog Bailey. She is a shih tzu, dasch hound and pinscher mix with a wonderful, crazy personality that made even my most anti-dog friends fall in love. Unfortunately, she passed over the rainbow bridge this spring and is greately missed. Seeing as this is a page about me, I wanted to honour my best friend, the greatest pride and joy of my life!   </p> 
         </div>
+    </div>
 
         <div class ="about-right">
            
@@ -18,17 +21,25 @@ require 'header.php';
                     <li>Age: 23</li>
                     <li>Favorite Food: My mothers Khao Soi</li>
                     <li>Hobbies: Video games, art, horror/mystery, dogs</li>
-                    <li>Favorite Soccer Team: Bk Häcken "Biased because "
+                    <li>Favorite Soccer Team: Bk Häcken (Biased because I used to play for their "Dam A-lag").
                 </ul>         
-            
+                
+                <p>
+                            I am an aspiring web developer from Gothenburg, Sweden. I am currently studying at YRGO Higher Vocational Education, in the first semester of a two year program.
+                            
+                            This is my first ever coding project, and i don't have any precious coding or programming experience. (WISH ME LUCK!) <br>
+                            
+                            Aside from my studies I enjoy video games, art and horror/mystery (movies, books, truecrime etc.). I am a real sucker for wine, Radiohead and animals.
+                        </p>   
+
+                <div class="Contact">
+                    <h3>My socials</h3>
+                    <a class="social-link" href="https://www.instagram.com/beniitaalmroth/" target="instagram">Instagram</a>
+                    <a class="social-link" href="" target="facebook">LinkedIn</a>
+                   
 
         </div>
+
+        
     </div> 
     
-    <p>
-                I am an aspiring web developer from Gothenburg, Sweden. I am currently studying at YRGO Higher Vocational Education, in the first semester of a two year program.
-                
-                This is my first ever coding project, and i don't have any precious coding or programming experience. I chose this education because I wanted to broaden my horizon, and have always been interested in everyting techy. Therefore the endless posibillity of programming seems like a perfect way for me to prosper, where one day maybe I'll make websites for my favorite Game Developers! 
-                
-                Aside from my studies I enjoy video games, art and horror/mystery (movies, books, truecrime etc.). I am a real sucker for wine, derpy dogs and Radiohead.
-            </p>   
